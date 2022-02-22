@@ -4,7 +4,8 @@
     <file type="web" url="file://$PROJECT_DIR$/../01_spring_ioc" />
     <file type="web" url="file://$PROJECT_DIR$/01_spring_ioc" />
     <file type="web" url="file://$PROJECT_DIR$/03_itheima_spring_mvc" />
-    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/04_itheima_spring_mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_jdbc" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,6 +13,7 @@
         <option value="$PROJECT_DIR$/../01_spring_ioc/pom.xml" />
         <option value="$PROJECT_DIR$/01_spring_ioc/pom.xml" />
         <option value="$PROJECT_DIR$/itheima_spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_jdbc/pom.xml" />
       </list>
     </option>
   </component>
