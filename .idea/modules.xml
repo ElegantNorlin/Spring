@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/03_itheima_spring_mvc/03_itheima_spring_mvc.iml" filepath="$PROJECT_DIR$/03_itheima_spring_mvc/03_itheima_spring_mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_itheima_spring_mvc/04_itheima_spring_mvc.iml" filepath="$PROJECT_DIR$/04_itheima_spring_mvc/04_itheima_spring_mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_itheima_spring_jdbc/05_itheima_spring_jdbc.iml" filepath="$PROJECT_DIR$/05_itheima_spring_jdbc/05_itheima_spring_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_spring_test/itheima_spring_test.iml" filepath="$PROJECT_DIR$/itheima_spring_test/itheima_spring_test.iml" />
     </modules>
   </component>
 </project>
