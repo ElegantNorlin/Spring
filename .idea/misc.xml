@@ -5,7 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/01_spring_ioc" />
     <file type="web" url="file://$PROJECT_DIR$/03_itheima_spring_mvc" />
     <file type="web" url="file://$PROJECT_DIR$/04_itheima_spring_mvc" />
-    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_jdbc" />
+    <file type="web" url="file://$PROJECT_DIR$/05_itheima_spring_jdbc" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="itheima_spring_jdbc" />
+          <element id="module-output" name="05_itheima_spring_jdbc" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.32" />
@@ -36,9 +36,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/itheima_spring_jdbc/target/itheima_spring_jdbc-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/05_itheima_spring_jdbc/target/itheima_spring_jdbc-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="itheima_spring_jdbc/web/Web" />
+      <element id="javaee-facet-resources" facet="05_itheima_spring_jdbc/web/Web" />
     </root>
   </artifact>
 </component>
