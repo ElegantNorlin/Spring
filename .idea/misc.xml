@@ -6,7 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/03_itheima_spring_mvc" />
     <file type="web" url="file://$PROJECT_DIR$/04_itheima_spring_mvc" />
     <file type="web" url="file://$PROJECT_DIR$/05_itheima_spring_jdbc" />
-    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_test" />
+    <file type="web" url="file://$PROJECT_DIR$/06_itheima_spring_test" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -19,7 +19,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
