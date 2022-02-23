@@ -7,6 +7,18 @@
       <module fileurl="file://$PROJECT_DIR$/04_itheima_spring_mvc/04_itheima_spring_mvc.iml" filepath="$PROJECT_DIR$/04_itheima_spring_mvc/04_itheima_spring_mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_itheima_spring_jdbc/05_itheima_spring_jdbc.iml" filepath="$PROJECT_DIR$/05_itheima_spring_jdbc/05_itheima_spring_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_itheima_spring_test/06_itheima_spring_test.iml" filepath="$PROJECT_DIR$/06_itheima_spring_test/06_itheima_spring_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_itheima_spring_interceptor/07_itheima_spring_interceptor.iml" filepath="$PROJECT_DIR$/07_itheima_spring_interceptor/07_itheima_spring_interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_itheima_spring_test/07_itheima_spring_test.iml" filepath="$PROJECT_DIR$/07_itheima_spring_test/07_itheima_spring_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_itheima_spring_exception/08_itheima_spring_exception.iml" filepath="$PROJECT_DIR$/08_itheima_spring_exception/08_itheima_spring_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_itheima_spring_aop/09_itheima_spring_aop.iml" filepath="$PROJECT_DIR$/09_itheima_spring_aop/09_itheima_spring_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_itheima_spring_tx/10_itheima_spring_tx.iml" filepath="$PROJECT_DIR$/10_itheima_spring_tx/10_itheima_spring_tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_itheima_spring_tx_anno/10_itheima_spring_tx_anno.iml" filepath="$PROJECT_DIR$/10_itheima_spring_tx_anno/10_itheima_spring_tx_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_itheima_mybatis_quick/11_itheima_mybatis_quick.iml" filepath="$PROJECT_DIR$/11_itheima_mybatis_quick/11_itheima_mybatis_quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_itheima_mybatis_dao/12_itheima_mybatis_dao.iml" filepath="$PROJECT_DIR$/12_itheima_mybatis_dao/12_itheima_mybatis_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_itheima_mybatis_mapper/13_itheima_mybatis_mapper.iml" filepath="$PROJECT_DIR$/13_itheima_mybatis_mapper/13_itheima_mybatis_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_itheima_mybatis_config/14_itheima_mybatis_config.iml" filepath="$PROJECT_DIR$/14_itheima_mybatis_config/14_itheima_mybatis_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_itheima_mybatis_multi/15_itheima_mybatis_multi.iml" filepath="$PROJECT_DIR$/15_itheima_mybatis_multi/15_itheima_mybatis_multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_itheima_mybatis_anno/16_itheima_mybatis_anno.iml" filepath="$PROJECT_DIR$/16_itheima_mybatis_anno/16_itheima_mybatis_anno.iml" />
     </modules>
   </component>
 </project>
