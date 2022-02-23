@@ -13,6 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.List;
 
 @Controller
+//@RequestMapping("/user")：设置UserController类的资源访问路径
 @RequestMapping("/user")
 public class UserController {
 
@@ -24,6 +25,8 @@ public class UserController {
     @Autowired
     private RoleService roleService;
 
+    //@RequestMapping("/del/{userId}"):设置del方法的访问路径
+    //其中{userId}为用于接收请求参数的占位符
     @RequestMapping("/del/{userId}")
     public String del(@PathVariable("userId") Long userId){
         userService.del(userId);
