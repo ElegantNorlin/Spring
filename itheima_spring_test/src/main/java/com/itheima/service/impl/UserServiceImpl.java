@@ -11,6 +11,7 @@ import java.util.List;
 public class UserServiceImpl implements UserService {
     //这里没有使用注解注入UserDao的原因是：
     // 在配置userDao的Bean对象的时候已经注入了UserDao，所以在这里不需要再用注解注入UserDao了
+    //我理解的这里是向上转型
     private UserDao userDao;
     public void setUserDao(UserDao userDao) {
         this.userDao = userDao;
