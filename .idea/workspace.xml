@@ -30,6 +30,7 @@
     <list default="true" id="dad7d0ac-62a1-4491-b8cc-e9c392676429" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itheima_spring_test/src/main/java/com/itheima/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/itheima_spring_test/src/main/java/com/itheima/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima_spring_test/src/main/webapp/pages/user-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/itheima_spring_test/src/main/webapp/pages/user-add.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,7 +302,7 @@
       <workItem from="1645591268548" duration="957000" />
       <workItem from="1645594531782" duration="695000" />
       <workItem from="1645598329702" duration="3161000" />
-      <workItem from="1645604174980" duration="1719000" />
+      <workItem from="1645604174980" duration="3561000" />
     </task>
     <servers />
   </component>

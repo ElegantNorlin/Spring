@@ -123,6 +123,7 @@
 						</div>
 						<div class="col-md-2 title">用户角色</div>
 						<div class="col-md-10 data">
+<%--							roleList是web层添加的--%>
 							<c:forEach items="${roleList}" var="role">
 								<input class="" type="checkbox" name="roleIds" value="${role.id}">${role.roleName}
 							</c:forEach>

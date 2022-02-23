@@ -33,6 +33,10 @@ public class UserController {
         return "redirect:/user/list";
     }
 
+    /*
+    save(User user,Long[] roleIds)中的形参会被spring框架自动封装，前提是
+    表单提交的数据项的名称必须与形参的属性值相同，这样框架才会自动封装。
+     */
     @RequestMapping("/save")
     public String save(User user,Long[] roleIds){
         userService.save(user,roleIds);
