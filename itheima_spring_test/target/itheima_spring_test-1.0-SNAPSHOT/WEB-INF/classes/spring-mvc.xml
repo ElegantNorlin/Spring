@@ -10,16 +10,20 @@
 ">
 
     <!--1、mvc注解驱动-->
+    <!--配置该驱动后，会有一些框架内部的转换器可以使用，比如Json与对象的转换   -->
     <mvc:annotation-driven/>
 
+    <!--设置页面的访问路径的前缀和后缀-->
     <!--2、配置视图解析器-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/pages/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
 
+
     <!--3、静态资源权限开放-->
     <mvc:default-servlet-handler/>
+
 
     <!--4、组件扫描  扫描Controller-->
     <context:component-scan base-package="com.itheima.controller"/>

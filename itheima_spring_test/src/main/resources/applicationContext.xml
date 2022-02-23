@@ -35,6 +35,7 @@
     </bean>
 
     <!--配置UserService-->
+    <!--在代码中直接使用id对应的值来调用UserServiceImpl实现类对象-->
     <bean id="userService" class="com.itheima.service.impl.UserServiceImpl">
         <property name="userDao" ref="userDao"/>
         <property name="roleDao" ref="roleDao"/>

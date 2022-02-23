@@ -16,9 +16,11 @@ import java.util.List;
 @RequestMapping("/user")
 public class UserController {
 
+    //依赖注入UserService(该单词为该实现类在Spring的配置文件中Bean的id)的实现类对象
+    //不需要new对象，直接从spring容器中获取该对象即可
     @Autowired
     private UserService userService;
-
+    //依赖注入RoleService(该单词为该实现类在Spring的配置文件中Bean的id)的实现类对象
     @Autowired
     private RoleService roleService;
 
