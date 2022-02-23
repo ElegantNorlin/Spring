@@ -39,6 +39,7 @@ public class UserController {
         return "redirect:/user/list";
     }
 
+    //这个方法是创建用户界面点击"新建"按钮后的跳转的资源方法
     @RequestMapping("/saveUI")
     public ModelAndView saveUI(){
         ModelAndView modelAndView = new ModelAndView();
