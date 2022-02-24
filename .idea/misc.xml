@@ -40,6 +40,12 @@
         <option value="$PROJECT_DIR$/itheima_mybatis_multi/pom.xml" />
         <option value="$PROJECT_DIR$/itheima_mybatis_anno/pom.xml" />
         <option value="$PROJECT_DIR$/09_itheima_spring_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/03_itheima_spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/04_itheima_spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/05_itheima_spring_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/06_itheima_spring_test/pom.xml" />
+        <option value="$PROJECT_DIR$/07_itheima_spring_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/07_itheima_spring_test/pom.xml" />
       </list>
     </option>
   </component>
