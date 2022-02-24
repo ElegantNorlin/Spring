@@ -27,20 +27,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad7d0ac-62a1-4491-b8cc-e9c392676429" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_spring_ioc/01_spring_ioc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring_ioc/01_spring_ioc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_itheima_mybatis_multi/15_itheima_mybatis_multi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/15_itheima_mybatis_multi/15_itheima_mybatis_multi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_itheima_mybatis_anno/16_itheima_mybatis_anno.iml" beforeDir="false" afterPath="$PROJECT_DIR$/16_itheima_mybatis_anno/16_itheima_mybatis_anno.iml" afterDir="false" />
-    </list>
+    <list default="true" id="dad7d0ac-62a1-4491-b8cc-e9c392676429" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -325,7 +312,7 @@
       <workItem from="1645604174980" duration="4780000" />
       <workItem from="1645621330376" duration="854000" />
       <workItem from="1645622692457" duration="178000" />
-      <workItem from="1645665501200" duration="1059000" />
+      <workItem from="1645665501200" duration="1386000" />
     </task>
     <servers />
   </component>

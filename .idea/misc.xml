@@ -46,6 +46,15 @@
         <option value="$PROJECT_DIR$/06_itheima_spring_test/pom.xml" />
         <option value="$PROJECT_DIR$/07_itheima_spring_interceptor/pom.xml" />
         <option value="$PROJECT_DIR$/07_itheima_spring_test/pom.xml" />
+        <option value="$PROJECT_DIR$/08_itheima_spring_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/10_itheima_spring_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/10_itheima_spring_tx_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/11_itheima_mybatis_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/12_itheima_mybatis_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/13_itheima_mybatis_mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/14_itheima_mybatis_config/pom.xml" />
+        <option value="$PROJECT_DIR$/15_itheima_mybatis_multi/pom.xml" />
+        <option value="$PROJECT_DIR$/16_itheima_mybatis_anno/pom.xml" />
       </list>
     </option>
   </component>
