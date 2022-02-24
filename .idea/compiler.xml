@@ -6,23 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="12_itheima_mybatis_dao" />
-        <module name="10_itheima_spring_tx_anno" />
-        <module name="05_itheima_spring_jdbc" />
         <module name="09_itheima_spring_aop" />
-        <module name="01_spring_ioc" />
-        <module name="07_itheima_spring_interceptor" />
-        <module name="03_itheima_spring_mvc" />
-        <module name="08_itheima_spring_exception" />
-        <module name="10_itheima_spring_tx" />
-        <module name="13_itheima_mybatis_mapper" />
         <module name="06_itheima_spring_test" />
-        <module name="11_itheima_mybatis_quick" />
-        <module name="16_itheima_mybatis_anno" />
-        <module name="15_itheima_mybatis_multi" />
         <module name="04_itheima_spring_mvc" />
-        <module name="07_itheima_spring_test" />
+        <module name="13_itheima_mybatis_mapper" />
+        <module name="03_itheima_spring_mvc" />
+        <module name="15_itheima_mybatis_multi" />
+        <module name="01_spring_ioc" />
+        <module name="11_itheima_mybatis_quick" />
+        <module name="05_itheima_spring_jdbc" />
+        <module name="10_itheima_spring_tx_anno" />
+        <module name="07_itheima_spring_interceptor" />
+        <module name="12_itheima_mybatis_dao" />
+        <module name="10_itheima_spring_tx" />
         <module name="14_itheima_mybatis_config" />
+        <module name="08_itheima_spring_exception" />
+        <module name="16_itheima_mybatis_anno" />
+        <module name="07_itheima_spring_test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
