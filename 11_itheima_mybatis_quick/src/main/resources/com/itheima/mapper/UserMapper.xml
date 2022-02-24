@@ -4,6 +4,7 @@
 
     <!--删除操作-->
     <delete id="delete" parameterType="int">
+        <!--因为这里只有一个参数，所以占位符的名称取什么都可以-->
         delete from user where id=#{abc}
     </delete>
 
