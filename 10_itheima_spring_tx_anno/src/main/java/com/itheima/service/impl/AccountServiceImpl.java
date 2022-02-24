@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Isolation;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
-
+//Transactional加到类上代表对该类的所有方法进行该事务隔离,若方法中同事也有该注解，遵循就近原则
 @Service("accountService")
 @Transactional(isolation = Isolation.REPEATABLE_READ)
 public class AccountServiceImpl implements AccountService {

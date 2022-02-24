@@ -37,6 +37,7 @@
     <!--通知  事务的增强-->
     <tx:advice id="txAdvice" transaction-manager="transactionManager">
         <!--设置事务的属性信息的-->
+        <!--对指定的方法进行事务隔离-->
         <tx:attributes>
             <tx:method name="transfer" isolation="REPEATABLE_READ" propagation="REQUIRED" read-only="false"/>
             <tx:method name="save" isolation="REPEATABLE_READ" propagation="REQUIRED" read-only="false"/>

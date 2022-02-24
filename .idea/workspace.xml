@@ -27,7 +27,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad7d0ac-62a1-4491-b8cc-e9c392676429" name="Default Changelist" comment="" />
+    <list default="true" id="dad7d0ac-62a1-4491-b8cc-e9c392676429" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_spring_ioc/01_spring_ioc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring_ioc/01_spring_ioc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_itheima_spring_mvc/03_itheima_spring_mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/03_itheima_spring_mvc/03_itheima_spring_mvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_itheima_spring_mvc/04_itheima_spring_mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/04_itheima_spring_mvc/04_itheima_spring_mvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_itheima_spring_jdbc/05_itheima_spring_jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/05_itheima_spring_jdbc/05_itheima_spring_jdbc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_itheima_spring_test/06_itheima_spring_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/06_itheima_spring_test/06_itheima_spring_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_itheima_spring_interceptor/07_itheima_spring_interceptor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/07_itheima_spring_interceptor/07_itheima_spring_interceptor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_itheima_spring_test/07_itheima_spring_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/07_itheima_spring_test/07_itheima_spring_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_itheima_spring_exception/08_itheima_spring_exception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/08_itheima_spring_exception/08_itheima_spring_exception.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_itheima_spring_aop/09_itheima_spring_aop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/09_itheima_spring_aop/09_itheima_spring_aop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_itheima_spring_aop/src/main/java/com/itheima/proxy/jdk/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/09_itheima_spring_aop/src/main/java/com/itheima/proxy/jdk/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_itheima_spring_tx/10_itheima_spring_tx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/10_itheima_spring_tx/10_itheima_spring_tx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_itheima_spring_tx/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_itheima_spring_tx/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_itheima_spring_tx_anno/10_itheima_spring_tx_anno.iml" beforeDir="false" afterPath="$PROJECT_DIR$/10_itheima_spring_tx_anno/10_itheima_spring_tx_anno.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_itheima_spring_tx_anno/src/main/java/com/itheima/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_itheima_spring_tx_anno/src/main/java/com/itheima/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_itheima_mybatis_quick/11_itheima_mybatis_quick.iml" beforeDir="false" afterPath="$PROJECT_DIR$/11_itheima_mybatis_quick/11_itheima_mybatis_quick.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_itheima_mybatis_dao/12_itheima_mybatis_dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/12_itheima_mybatis_dao/12_itheima_mybatis_dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_itheima_mybatis_mapper/13_itheima_mybatis_mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/13_itheima_mybatis_mapper/13_itheima_mybatis_mapper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_itheima_mybatis_config/14_itheima_mybatis_config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/14_itheima_mybatis_config/14_itheima_mybatis_config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_itheima_mybatis_multi/15_itheima_mybatis_multi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/15_itheima_mybatis_multi/15_itheima_mybatis_multi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_itheima_mybatis_anno/16_itheima_mybatis_anno.iml" beforeDir="false" afterPath="$PROJECT_DIR$/16_itheima_mybatis_anno/16_itheima_mybatis_anno.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +109,20 @@
       <recent name="C:\Code\Github\Spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.75">
+  <component name="RunManager" selected="Application.ProxyTest">
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.proxy.jdk.ProxyTest" />
+      <module name="09_itheima_spring_aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.proxy.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserDaoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.wanwan.demo.UserDaoDemo" />
       <module name="01_spring_ioc" />
@@ -107,6 +143,22 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09_itheima_spring_aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.AopTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -285,9 +337,13 @@
     <list>
       <item itemvalue="Application.UserDaoDemo" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.75" />
+      <item itemvalue="JUnit.AopTest.test1" />
+      <item itemvalue="Application.ProxyTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="JUnit.AopTest.test1" />
         <item itemvalue="Application.UserDaoDemo" />
       </list>
     </recent_temporary>
@@ -312,7 +368,7 @@
       <workItem from="1645604174980" duration="4780000" />
       <workItem from="1645621330376" duration="854000" />
       <workItem from="1645622692457" duration="178000" />
-      <workItem from="1645665501200" duration="1386000" />
+      <workItem from="1645665501200" duration="9684000" />
     </task>
     <servers />
   </component>
