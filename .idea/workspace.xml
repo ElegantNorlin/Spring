@@ -5,9 +5,6 @@
       <artifact name="itheima_spring_test:war exploded" />
     </artifacts-to-build>
   </component>
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -28,8 +25,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dad7d0ac-62a1-4491-b8cc-e9c392676429" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/14_itheima_mybatis_config/src/main/java/com/itheima/handler/DateTypeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/14_itheima_mybatis_config/src/main/java/com/itheima/handler/DateTypeHandler.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/11_itheima_mybatis_quick/src/main/resources/com/itheima/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/11_itheima_mybatis_quick/src/main/resources/com/itheima/mapper/UserMapper.xml" afterDir="false" />
+>>>>>>> 4b9d5b6c1c42e3baaed64fcc80e17472180a2a48
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,17 +113,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -316,9 +306,9 @@
     </configuration>
     <list>
       <item itemvalue="Application.UserDaoDemo" />
-      <item itemvalue="Tomcat Server.Tomcat 8.5.75" />
-      <item itemvalue="JUnit.AopTest.test1" />
       <item itemvalue="Application.ProxyTest" />
+      <item itemvalue="JUnit.AopTest.test1" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.75" />
     </list>
     <recent_temporary>
       <list>
@@ -328,7 +318,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -348,12 +338,17 @@
       <workItem from="1645604174980" duration="4780000" />
       <workItem from="1645621330376" duration="854000" />
       <workItem from="1645622692457" duration="178000" />
+<<<<<<< HEAD
       <workItem from="1645665501200" duration="11391000" />
+=======
+      <workItem from="1645665501200" duration="9684000" />
+      <workItem from="1645705012377" duration="1295000" />
+>>>>>>> 4b9d5b6c1c42e3baaed64fcc80e17472180a2a48
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
