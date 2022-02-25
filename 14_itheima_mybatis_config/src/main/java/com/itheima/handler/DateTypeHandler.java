@@ -11,6 +11,7 @@ import java.util.Date;
 
 public class DateTypeHandler extends BaseTypeHandler<Date> {
     //将java类型 转换成 数据库需要的类型
+    //i为索引位置
     public void setNonNullParameter(PreparedStatement preparedStatement, int i, Date date, JdbcType jdbcType) throws SQLException {
         long time = date.getTime();
         preparedStatement.setLong(i,time);
