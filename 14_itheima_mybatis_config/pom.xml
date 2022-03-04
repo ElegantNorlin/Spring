@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.itheima</groupId>
-  <artifactId>itheima_mybatis_config</artifactId>
+  <artifactId>14-itheima_mybatis_config</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 

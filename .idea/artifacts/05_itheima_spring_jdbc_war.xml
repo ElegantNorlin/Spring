@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="itheima_spring_jdbc-1.0-SNAPSHOT.war">
+    <root id="archive" name="05-itheima_spring_jdbc-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="05_itheima_spring_jdbc:war exploded" />
     </root>
   </artifact>

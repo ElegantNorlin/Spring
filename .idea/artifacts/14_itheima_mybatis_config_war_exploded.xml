@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="14_itheima_mybatis_config:war exploded">
-    <output-path>$PROJECT_DIR$/14_itheima_mybatis_config/target/itheima_mybatis_config-1.0-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/14_itheima_mybatis_config/target/14-itheima_mybatis_config-1.0-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -24,7 +24,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/14_itheima_mybatis_config/target/itheima_mybatis_config-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/14_itheima_mybatis_config/target/14-itheima_mybatis_config-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="14_itheima_mybatis_config/web/Web" />
     </root>

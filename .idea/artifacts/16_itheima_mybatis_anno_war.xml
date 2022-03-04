@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="itheima_mybatis_anno-1.0-SNAPSHOT.war">
+    <root id="archive" name="16-itheima_mybatis_anno-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="16_itheima_mybatis_anno:war exploded" />
     </root>
   </artifact>

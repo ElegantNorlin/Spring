@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="itheima_mybatis_mapper-1.0-SNAPSHOT.war">
+    <root id="archive" name="13-itheima_mybatis_mapper-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="13_itheima_mybatis_mapper:war exploded" />
     </root>
   </artifact>

@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="itheima_spring_aop-1.0-SNAPSHOT.war">
+    <root id="archive" name="09-itheima_spring_aop-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="09_itheima_spring_aop:war exploded" />
     </root>
   </artifact>
